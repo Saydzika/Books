@@ -27,16 +27,7 @@ h1 {
 p {
     background-color: burlywood;
 }
-  .container {
-    width: 518px;
-    margin: 0 auto;
-    padding: 0 20px;
-    text-align: center;
-    color: black;
-    }
-  .container > p {
-    background-color: burlywood;
-  }
+  
   .site-header {
     min-width: 550px;
     height: 186px;
@@ -45,4 +36,14 @@ p {
     background: no-repeat url("https://arihasmirnova.ru/wp-content/uploads/2019/12/reading-patterns-t-2048x1076.jpg");
     background-size: 100%;
     color: #ffffff;
+  }
+.container {
+    width: 518px;
+    margin: 0 auto;
+    padding: 0 20px;
+    text-align: center;
+    color: black;
+    }
+  .container > p {
+    background-color: burlywood;
   }

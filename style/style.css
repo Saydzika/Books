@@ -22,7 +22,7 @@ h1 {
     width: 30%;
     margin: 0 5px;
     background-repeat: no-repeat;
-    background-position: center top;
+    background-position: center center;
         }
 p {
     background-color: burlywood;
@@ -32,8 +32,8 @@ p {
     height: 186px;
     margin-bottom: 70px;
     padding-top: 30px;
-    background: center no-repeat url("https://arihasmirnova.ru/wp-content/uploads/2019/12/reading-patterns-t-2048x1076.jpg");
-    background-size: contain;
+    background: no-repeat center url("https://arihasmirnova.ru/wp-content/uploads/2019/12/reading-patterns-t-2048x1076.jpg");
+    background-size: cover;
 }
 .container {
     width: 518px;

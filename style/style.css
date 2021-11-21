@@ -34,7 +34,8 @@ p {
     padding-top: 30px;
     background: no-repeat center url("https://arihasmirnova.ru/wp-content/uploads/2019/12/reading-patterns-t-2048x1076.jpg");
     background-size: cover;
-        background-position: center center:
+        background-position: center center;
+        
 }
 .container {
     width: 518px;

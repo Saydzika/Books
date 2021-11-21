@@ -1,0 +1,45 @@
+/*display: inline-block; отображение пунктов в строчку, как ячейками*/ 
+h1 {
+    width: 250px;
+    margin: 0 auto 8px;
+    font-family: "Arial", sans-serif;
+    text-align: center;
+    font-weight: normal;
+    font-size: 35px;
+    line-height: 50px;
+    color: black;
+    background-color: burlywood;
+  }
+  .navigation {
+    width: 510px;
+    margin: 0 auto 30px;
+    padding: 0 20px;
+    text-align: center
+  }
+  .navigation p {
+    display: inline-block;
+    vertical-align: top;
+    width: 30%;
+    margin: 0 5px;
+    background-repeat: no-repeat;
+    background-position: center top;
+  }
+  .container {
+    width: 518px;
+    margin: 0 auto;
+    padding: 0 20px;
+    text-align: center;
+    color: black;
+    }
+  .container > p {
+    background-color: burlywood;
+  }
+  .site-header {
+    min-width: 550px;
+    height: 186px;
+    margin-bottom: 70px;
+    padding-top: 30px;
+    background: #847462 no-repeat center url("image/shell.jpg");
+    background-size: cover;
+    color: #ffffff;
+  }

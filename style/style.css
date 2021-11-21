@@ -23,8 +23,10 @@ h1 {
     margin: 0 5px;
     background-repeat: no-repeat;
     background-position: center top;
-      background-color: burlywood;
-  }
+        }
+p {
+    background-color: burlywood;
+}
   .container {
     width: 518px;
     margin: 0 auto;

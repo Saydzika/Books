@@ -38,11 +38,12 @@ p {
     background-color: burlywood;
   }
   .site-header {
-    width: 550px;
+    min-width: 550px;
     height: 186px;
     margin-bottom: 70px;
     padding-top: 30px;
-    background: no-repeat center url("https://arihasmirnova.ru/wp-content/uploads/2019/12/reading-patterns-t-2048x1076.jpg");
+    background: no-repeat url("https://arihasmirnova.ru/wp-content/uploads/2019/12/reading-patterns-t-2048x1076.jpg");
+   align: center;
     background-size: cover;
     color: #ffffff;
   }
